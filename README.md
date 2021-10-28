@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @agusllanan
-- 👀 I’m interested in sports, England football.
-- 🌱 I’m currently learning node.js and react as a strong skill to my backend journey
+- 👋 Hi, I’m @agusllanan full stack Developer
+- 👀 I’m interested in sports, Basketball, England football and tech.
+- 🌱 I’m currently learning GO as skill to my backend journey
 - 📫 You can write me to agus.llanan77@gmail.com
 
 <!---
