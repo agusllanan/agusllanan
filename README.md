@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @agusllanan full stack Developer
+- 👋 Hi, I’m @agusllanan full stack Developer with 2 years of experience.
+- Stack: React.Js, Next.Js, React Native, Node.Js, Tailwind, GraphQl.
 - 👀 I’m interested in sports, Basketball, England football and tech.
-- 🌱 I’m currently learning GO as skill to my backend journey
+- 🌱 I’m currently learning Python as skill to my backend journey
 - 📫 You can write me to agus.llanan77@gmail.com
 
 <!---
