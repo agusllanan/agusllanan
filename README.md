@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @agusllanan Front End Developer with 3 years of experience.
-- 🥇 Stack: React.Js, Next.Js, React Native, Node.Js, Tailwind, GraphQl.
+- 👋 Hi, I’m @agusllanan Full Stack Developer with 3 years of experience.
+- 🥇 Stack: React.Js, Next.Js, React Native, Node.Js, Tailwind, GraphQl, Node.js, Typescript, MongoDb, Postresql.
 - 👀 I’m interested in sports, Basketball, England football and tech.
 - 📫 You can write me to agus.llanan77@gmail.com
 
